@@ -13,8 +13,8 @@
 //导入所需的字库文件
 
 unsigned int colour = 0;
-const char *ssid     = "TP-LINK_6E29";
-const char *password = "dfy6768507";
+const char *ssid     = "yourwifiname";
+const char *password = "yourpassword";
 String UserKey = "99326fe894c5413aa85427a668190885";   
 //设置知心天气私钥
 String Location = "101280601"; 
